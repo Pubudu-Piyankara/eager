@@ -8,6 +8,7 @@ export default function Home() {
       <Link href="/login">
        get
       </Link>
+      <p>hello world</p>
     </main>
   );
 }
